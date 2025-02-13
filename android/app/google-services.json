@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602658111615",
+    "project_id": "safira-67e15",
+    "storage_bucket": "safira-67e15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602658111615:android:209456de4b2e6c049d3f4a",
+        "android_client_info": {
+          "package_name": "com.example.bookstore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIiop_T2LKaiiQKcVaAKLwvAzxsT7t_5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
